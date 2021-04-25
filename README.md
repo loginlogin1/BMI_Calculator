@@ -1,4 +1,4 @@
-# BMI_Calculator
+# BMI_CalculatorApp
 
 A new Flutter application.
 
