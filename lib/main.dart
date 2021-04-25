@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ya_mobiledeveloper_dolbaeb/screens/input_page.dart';
+import 'package:BMI_Calculator/screens/input_page.dart';
 void main() => runApp(BMICalculator());
 class BMICalculator extends StatelessWidget {
   @override
